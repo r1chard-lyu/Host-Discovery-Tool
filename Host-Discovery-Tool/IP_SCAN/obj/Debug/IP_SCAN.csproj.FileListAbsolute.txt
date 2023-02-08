@@ -1,0 +1,109 @@
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\source\repos\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.pdb
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\bin\Debug\IP_SCAN.exe
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\bin\Debug\IP_SCAN.pdb
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.exe
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN - 複製\IP_SCAN\obj\Debug\IP_SCAN.pdb
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\bin\Debug\IP_SCAN.exe
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\bin\Debug\IP_SCAN.pdb
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.exe
+D:\新增資料夾\KKBOX\Users\User\Desktop\IP_SCAN -缺TCP多test_OSversion\IP_SCAN\obj\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1\IP_SCAN\obj\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP多test_OSversion1 - 複製 (2)\IP_SCAN\obj\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN -缺TCP_compareTest\IP_SCAN\obj\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.exe.config
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\bin\Debug\IP_SCAN.pdb
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csprojAssemblyReference.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.ResolveComReference.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.Form1.resources
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.Properties.Resources.resources
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.GenerateResource.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.csproj.CoreCompileInputs.cache
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.exe
+C:\Users\Andy.Lu\Desktop\show0508\IP_SCAN\IP_SCAN\obj\Debug\IP_SCAN.pdb

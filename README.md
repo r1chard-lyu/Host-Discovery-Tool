@@ -1,0 +1,3 @@
+# Host-Discovery-Tool
+
+This is my first project after learning programming for half a year in 2019. This is a Host-Discovery-Tool, which can be placed on Windows Server for network administrators to scan the intranet regularly, using ICMP and common TCP Ports ( 22, 23, 25, 53, 80, 110, 123, 143, 443, 3389 connections to ensure the network host detection rate and store the results, which uses Multi-Thread and asynchronous methods to reduce network waiting time , so the intranet can be completely scanned very quickly.
